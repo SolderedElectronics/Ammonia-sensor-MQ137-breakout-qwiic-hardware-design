@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1,R2,R4,R5,R3";"0603R";5;"10k";;;
+2;"K4";"DSHP03TS-S";1;"DSHP03TS-S";;;
+3;"U1";"MQ";1;"MQ-X";;;
+4;"C4";"0603C";1;"100n";;;
+5;"K2";"HEADER-UPDI";1;"HEADER-UPDI";;;
+6;"K1,K3";"qwiic-connector";2;"qwiic-SMD";;;
+7;"JP2,JP1";"SMD_JUMPER_3_PAD_TRACE";2;"SMD_JUMPER_3_PAD_TRACE";;;
+8;"C1,C2";"0805C";2;"CL10A226MPCNUBE";;;
+9;"U4";"SOIC-14";1;"ATTINY404-SSNR";;;
+10;"C3";"0805C";1;"C1608X7S1A475K080AC";;;
+11;"H2,H3,H1,H4";"HOLE_3.2mm";4;"HOLE_3.2mm";;;
+12;"U3";"tps613222a";1;"TPS613222A";;;
+13;"D1";"0402LED";1;"purple";;;
+14;"U2";"SOT-363";1;"NMOS-DUAL";;;
+15;"L1";"0806L";1;"DFE201612E-2R2M=P2";;;
+16;"R6";"0402R";1;"2k2";;;
